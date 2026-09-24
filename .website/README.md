@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - strategy
 post: https://engineering.wingify.com/posts/js13k-game-development/#keep-alive
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
